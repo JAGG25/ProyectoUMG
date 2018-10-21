@@ -59,7 +59,7 @@
             <div class="header-mobile__bar">
                 <div class="container-fluid">
                     <div class="header-mobile-inner">
-                        <a class="logo" href="/home" style="width: 36%;">
+                        <a class="logo" href="${pageContext.request.contextPath}/home" style="width: 36%;">
                             <img src="${pageContext.request.contextPath}/images/icon/umg.png" alt="Programacion2"  style="max-width: 30% !important;"/>
                             Programación 2
                         </a>
@@ -155,7 +155,7 @@
         <!-- MENU SIDEBAR-->
         <aside class="menu-sidebar d-none d-lg-block">
             <div class="logo">
-                <a href="home">
+                <a href="${pageContext.request.contextPath}/home">
                <img src="${pageContext.request.contextPath}/images/icon/umg.png" alt="Programacion 2" style="max-width: 30% !important;"/>
                Programación 2
                 </a>
