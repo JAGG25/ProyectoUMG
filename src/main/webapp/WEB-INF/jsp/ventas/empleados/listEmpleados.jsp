@@ -110,7 +110,7 @@
                                     </table>
                                     </c:if>
                                 </div>
-                                <!-- END DATA TABLE \f2f9  -->
+                                <!-- END DATA TABLE table_info  -->
                             </div>
                         </div>
                       
@@ -135,7 +135,7 @@
                             	    "sLengthMenu":     "Mostrar _MENU_ registros",
                             	    "sZeroRecords":    "No se encontraron resultados",
                             	    "sEmptyTable":     "Ningún dato disponible en esta tabla",
-                            	    "sInfo":           " _START_ al _END_  de _TOTAL_ registros",
+                            	    "sInfo":           "Resgistros _START_ al _END_  de  _TOTAL_",
                             	    "sInfoEmpty":      "Mostrando registros del 0 al 0 de un total de 0 registros",
                             	    "sInfoFiltered":   "(filtrado de un total de _MAX_ registros)",
                             	    "sInfoPostFix":    "",
