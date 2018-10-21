@@ -1291,7 +1291,7 @@ section {
 
 @media (max-width: 991px) {
     .header-button {
-        margin-top: 30px;
+/*         margin-top: 30px; */
         width: 100%;
         -webkit-box-pack: justify;
         -webkit-justify-content: space-between;
@@ -1424,7 +1424,7 @@ section {
 .account-item > .content > a:after {
     font-family: "Material-Design-Iconic-Font";
     font-weight: 500;
-    content: "\e150";
+    content: '\f2f9';
     display: inline-block;
     font-size: 16px;
     margin-left: 5px;

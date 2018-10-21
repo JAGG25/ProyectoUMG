@@ -285,7 +285,7 @@
                                             </div>
                                             <div class="account-dropdown__footer">
                                                 <a href="${pageContext.request.contextPath}/logout">
-                                                    <i class="zmdi zmdi-power"></i>Logout</a>
+                                                    <i class="zmdi zmdi-power"></i>Cerrar Sesión</a>
                                             </div>
                                         </div>
                                     </div>
