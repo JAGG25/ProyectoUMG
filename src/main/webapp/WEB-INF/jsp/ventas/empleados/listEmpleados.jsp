@@ -110,7 +110,7 @@
                                     </table>
                                     </c:if>
                                 </div>
-                                <!-- END DATA TABLE -->
+                                <!-- END DATA TABLE \f2f9  -->
                             </div>
                         </div>
                       
@@ -153,7 +153,8 @@
                             	        "sSortAscending":  ": Activar para ordenar la columna de manera ascendente",
                             	        "sSortDescending": ": Activar para ordenar la columna de manera descendente"
                             	    }
-                            	}
+                            	},
+                            
                          });
                     	}); 
   				

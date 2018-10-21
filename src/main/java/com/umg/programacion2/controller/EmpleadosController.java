@@ -142,7 +142,7 @@ public class EmpleadosController {
 //		 	SIEMPRE LLAMAR A ESTA FUNCION
 //	        simpre incluir este metodo
 	         model = menuService.getAllParameter(model);
-	    	model.addAttribute("pagina", "Puestos");
+	    	model.addAttribute("pagina", "Empleados");
 	        return "redirect:/ventas/empleados/listEmpleados";
 	    }
 	 
@@ -160,7 +160,7 @@ public class EmpleadosController {
 //		 	SIEMPRE LLAMAR A ESTA FUNCION
 //	        simpre incluir este metodo
 	         model = menuService.getAllParameter(model);
-	    	model.addAttribute("pagina", "Puestos");
+	    	model.addAttribute("pagina", "Empleados");
 	        return "ventas/empleados/updateEmpleado";
 	    }
 	 	
@@ -173,7 +173,7 @@ public class EmpleadosController {
 //		 	SIEMPRE LLAMAR A ESTA FUNCION
 //	        simpre incluir este metodo
 	         model = menuService.getAllParameter(model);
-	    	model.addAttribute("pagina", "Puestos");
+	    	model.addAttribute("pagina", "Empleados");
 	        return "redirect:/ventas/empleados/listEmpleados";
 	    }
 	 	
