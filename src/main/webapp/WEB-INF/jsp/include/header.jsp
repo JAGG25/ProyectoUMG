@@ -154,9 +154,9 @@
 
         <!-- MENU SIDEBAR-->
         <aside class="menu-sidebar d-none d-lg-block">
-            <div class="logo">
+            <div class="logo" >
                 <a href="${pageContext.request.contextPath}/home">
-               <img src="${pageContext.request.contextPath}/images/icon/umg.png" alt="Programacion 2" style="max-width: 30% !important;"/>
+               <img src="${pageContext.request.contextPath}/images/icon/umg.png" alt="Programacion 2" style="max-width: 11% !important;"/>
                Programación 2
                 </a>
             </div>
